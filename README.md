@@ -55,20 +55,20 @@ http://localhost:8000/rss.php?channel=docs&token=PutYourSuperSecretTokenHere sho
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>docs</title>
-        <link>http://localhost:7701</link>
+        <link>http://localhost:8000</link>
         <description>Simple directory index feed</description>
-        <atom:link href="http://localhost:7701/rss.php?channel=docs" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:8000/rss.php?channel=docs" rel="self" type="application/rss+xml" />
         <item>
             <title>dsm_dl_add.png</title>
-            <link>http://localhost:7701/docs/dsm_dl_add.png</link>
-            <guid>http://localhost:7701/docs/dsm_dl_add.png?mtime=1707212185</guid>
+            <link>http://localhost:8000/docs/dsm_dl_add.png</link>
+            <guid>http://localhost:8000/docs/dsm_dl_add.png?mtime=1707212185</guid>
             <description>Size: 33661 Bytes</description>
             <pubDate>Tue, 06 Feb 2024 10:36:25 +0100</pubDate>
         </item>
         <item>
             <title>dsm_dl_feed.png</title>
-            <link>http://localhost:7701/docs/dsm_dl_feed.png</link>
-            <guid>http://localhost:7701/docs/dsm_dl_feed.png?mtime=1707211578</guid>
+            <link>http://localhost:8000/docs/dsm_dl_feed.png</link>
+            <guid>http://localhost:8000/docs/dsm_dl_feed.png?mtime=1707211578</guid>
             <description>Size: 199541 Bytes</description>
             <pubDate>Tue, 06 Feb 2024 10:26:18 +0100</pubDate>
         </item>
