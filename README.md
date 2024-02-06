@@ -15,7 +15,7 @@ solution, I looked into the built-in ingress tools of my Synology NAS (DSM).
 
 Here I found a utility called [Download Station](https://www.synology.com/dsm/packages/DownloadStation).
 Among many features it has a particularly interesting one: 
-Subscribing to RSS feeds and aut-downloading their content.
+Subscribing to RSS feeds and autp-downloading their content.
 
 ### ⚠️ Security considerations
 
